@@ -2,4 +2,7 @@ EditableJLabel is a Java Swing class which extends JPanel in order to create a
 simple, editable JLabel like component.
 
 USAGE
-See Demo.java for example usage.
+See Demo.java for example usage:
+
+    javac Demo.java
+    java Demo
